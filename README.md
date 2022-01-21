@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Markus 👋
+
+I mostly use GitHub just to get notifications from subscribed projects. My personal projects are hosted in a private [Gitea](https://gitea.io) instance and on [GitLab](https://gitlab.com/malfter).
+
+You can find my website (or better said my link collection 😊) [here](https://alfter-web.de/).
 
 <!--
 **malfter/malfter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
