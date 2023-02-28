@@ -7,6 +7,8 @@ I mostly use GitHub just to get notifications from subscribed projects. My perso
 
 You can find my website (or better said my link collection 😊) [here](https://alfter-web.de/).
 
+My preferred operating system is Linux/Debian, and I am also a friend of open-source software #floss.
+
 <!--
 **malfter/malfter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
