@@ -5,9 +5,9 @@
 
 I mostly use GitHub just to get notifications from subscribed projects. My personal projects are hosted in a private [Forgejo](https://forgejo.org) instance and on [GitLab](https://gitlab.com/malfter). In my free time I try to support projects from [kamapu.net](https://kamapu.net).
 
-You can find my website (or better said my link collection 😊) [here](https://alfter-web.de/).
+You can find my website (or better said my link collection 😊) [here](https://alfter-web.de/). If you want to contact me you can find me on [Mastodon](https://chaos.social/@markusalfter).
 
-My preferred operating system is Linux/Debian, and I am also a friend of open-source software #floss. If you want to contact me you can find me on [Mastodon](https://chaos.social/@markusalfter).
+My preferred operating system is Linux/Debian, and I am also a friend of open-source software #floss.
 
 <!--
 **malfter/malfter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
